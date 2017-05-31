@@ -6,7 +6,7 @@ Hello World!
 This is a page so you can check out my various social media accounts as well as my resume and other info about myself
 
 ## Education
-###**Virginia Polytechnic Institute and State University (Virginia Tech)**
+### **Virginia Polytechnic Institute and State University (Virginia Tech)**
 B.S., Business Information Technology, Decision Support Systems, Spring 2019
 Computer Science Minor, Spring 2019
 - Cumulative GPA of 3.50
@@ -33,13 +33,13 @@ Computer Science Minor, Spring 2019
 -	Modeling and problem-solving skills applicable to programming at this level
 
 ## Work Experience
-###**Production Tech**
-###Oct 2015 - Jan 2017
-###_SECL VT Student Production_
+### **Production Tech**
+### Oct 2015 - Jan 2017
+### _SECL VT Student Production_
 Provides labor, audio, video and lighting support for events taking place in the Squires Student Center, Burruss Auditorium, Graduate Life Center and other campus indoor and outdoor venues.
-###**Walmart**
-###Jun - Aug 2016
-###_Overnight Stock Associate_
+### **Walmart**
+### Jun - Aug 2016
+### _Overnight Stock Associate_
 Primary job duties include loading and unloading shipments, organizing backroom spaces, constructing displays, and stocking shelves. Other duties include assisting customers shopping during night hours by providing them with product information and accompanying customers to require shelves and provide them with product information.
 
 ## Technical Skills
