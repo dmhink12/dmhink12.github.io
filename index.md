@@ -43,6 +43,7 @@ Oct 2015 - Jan 2017
 _SECL VT Student Production_
 
 Provides labor, audio, video and lighting support for events taking place in the Squires Student Center, Burruss Auditorium, Graduate Life Center and other campus indoor and outdoor venues.
+
 **Walmart**
 
 Jun - Aug 2016
