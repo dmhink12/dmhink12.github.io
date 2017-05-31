@@ -53,10 +53,10 @@ _Overnight Stock Associate_
 Primary job duties include loading and unloading shipments, organizing backroom spaces, constructing displays, and stocking shelves. Other duties include assisting customers shopping during night hours by providing them with product information and accompanying customers to require shelves and provide them with product information.
 
 ## Technical Skills
-| Hard Skill Set | Soft Skill Set |
-|:---------------|:---------------|
-| Advanced in Microsoft Office (Word, Excel, PowerPoint and Access) | Enthusiatic |
-| Able to type 60 WPM | Willing to Learn |
-| Understand how to troubleshoot computer issues and problems | Problem-Solving |
-| Moderate experience with Java & HTML5 & CSS | Strong Work Ethic |
-| Advanced with SQL & R | Leadership |
+| Hard Skill Set                                                    | Soft Skill Set    |
+|:------------------------------------------------------------------|:------------------|
+| Advanced in Microsoft Office (Word, Excel, PowerPoint and Access) | Enthusiatic       |
+| Able to type 60 WPM                                               | Willing to Learn  |
+| Understand how to troubleshoot computer issues and problems       | Problem-Solving   |
+| Moderate experience with Java & HTML5 & CSS                       | Strong Work Ethic |
+| Advanced with SQL & R                                             | Leadership        |
