@@ -3,12 +3,12 @@
 System.out.println("Hello World!");
 Hello World!
 ```
-This is a page so you can check out my various social media accounts as well as my resume and other info about myself
+This is a page so you can check out my various social media accounts as well as my resume and other info about myself.:smileyface:
 
 ## Education
 ### **Virginia Polytechnic Institute and State University (Virginia Tech)**
 B.S., Business Information Technology, Decision Support Systems, Spring 2019
-Computer Science Minor, Spring 2019
+Computer Science Minor, Spring 2019.
 - Cumulative GPA of 3.50
 
 ### Course Work
@@ -22,18 +22,18 @@ Computer Science Minor, Spring 2019
 - Study of quantitative techniques used in managerial decision-making.
 -	Data collection, descriptive statistics, probability theory, and statistical inferential procedures.
 -	Study of linear regression and correlation analysis, forecasting, mathematical modeling, and network models.
--	Data mining project that involved tagging safety hazards within kitchen countertop appliances and hardware tools
+-	Data mining project that involved tagging safety hazards within kitchen countertop appliances and hardware tools.
 
 **_Intro to Programming Java_**
 -	Introduction to object oriented programming using Java language.
 -	Fundamental concepts underlying programming and software solutions to many problems.
--	Structured data, statement sequencing, logic control, classes, objects, methods, instantiation of classes, sending messages to objects
+-	Structured data, statement sequencing, logic control, classes, objects, methods, instantiation of classes, sending messages to objects.
 
 **_Intro to Software Design_**
 -	Fundamental concepts of programming from an object-oriented perspective.
 -	Basic software engineering principles and programming skills using Java.
 -	Simple data types, control structures, array and string data structures, basic algorithms, testing and debugging.
--	Modeling and problem-solving skills applicable to programming at this level
+-	Modeling and problem-solving skills applicable to programming at this level.
 
 ## Work Experience
 **Production Tech**
