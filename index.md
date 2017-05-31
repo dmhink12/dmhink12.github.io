@@ -1,11 +1,15 @@
-## Welcome to My Page
+# Welcome to My Page
+```markdown
+System.out.println("Hello World!");
+Hello World!
+```
 This is a page so you can check out my various social media accounts as well as my resume and other info about myself
 
-### Social Media
+## Resume
 
-This is where my links will go
+This is where my resume info will go
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -21,7 +25,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
