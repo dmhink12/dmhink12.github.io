@@ -1,5 +1,5 @@
 # Welcome to My Page
-```markdown
+```Java
 System.out.println("Hello World!");
 Hello World!
 ```
