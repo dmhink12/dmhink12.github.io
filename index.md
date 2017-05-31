@@ -34,12 +34,12 @@ Computer Science Minor, Spring 2019
 
 ## Work Experience
 ### **Production Tech**
-### Oct 2015 - Jan 2017
-### _SECL VT Student Production_
+#### Oct 2015 - Jan 2017
+#### _SECL VT Student Production_
 Provides labor, audio, video and lighting support for events taking place in the Squires Student Center, Burruss Auditorium, Graduate Life Center and other campus indoor and outdoor venues.
 ### **Walmart**
-### Jun - Aug 2016
-### _Overnight Stock Associate_
+#### Jun - Aug 2016
+#### _Overnight Stock Associate_
 Primary job duties include loading and unloading shipments, organizing backroom spaces, constructing displays, and stocking shelves. Other duties include assisting customers shopping during night hours by providing them with product information and accompanying customers to require shelves and provide them with product information.
 
 ## Technical Skills
