@@ -17,15 +17,18 @@ Computer Science Minor, Spring 2019
 - Development, integration and application of information systems components to solving business problems.
 -	Information systems security discussed with emphasis on role of the end user in making a system secure.
 - Several common end user software applications are introduced.
+
 **_Quantitaive Methods_**
 - Study of quantitative techniques used in managerial decision-making.
 -	Data collection, descriptive statistics, probability theory, and statistical inferential procedures.
 -	Study of linear regression and correlation analysis, forecasting, mathematical modeling, and network models.
 -	Data mining project that involved tagging safety hazards within kitchen countertop appliances and hardware tools
+
 **_Intro to Programming Java_**
 -	Introduction to object oriented programming using Java language.
 -	Fundamental concepts underlying programming and software solutions to many problems.
 -	Structured data, statement sequencing, logic control, classes, objects, methods, instantiation of classes, sending messages to objects
+
 **_Intro to Software Design_**
 -	Fundamental concepts of programming from an object-oriented perspective.
 -	Basic software engineering principles and programming skills using Java.
@@ -33,13 +36,19 @@ Computer Science Minor, Spring 2019
 -	Modeling and problem-solving skills applicable to programming at this level
 
 ## Work Experience
-### **Production Tech**
-#### Oct 2015 - Jan 2017
-#### _SECL VT Student Production_
+**Production Tech**
+
+Oct 2015 - Jan 2017
+
+_SECL VT Student Production_
+
 Provides labor, audio, video and lighting support for events taking place in the Squires Student Center, Burruss Auditorium, Graduate Life Center and other campus indoor and outdoor venues.
-### **Walmart**
-#### Jun - Aug 2016
-#### _Overnight Stock Associate_
+**Walmart**
+
+Jun - Aug 2016
+
+_Overnight Stock Associate_
+
 Primary job duties include loading and unloading shipments, organizing backroom spaces, constructing displays, and stocking shelves. Other duties include assisting customers shopping during night hours by providing them with product information and accompanying customers to require shelves and provide them with product information.
 
 ## Technical Skills
