@@ -5,10 +5,11 @@ Hello World!
 ```
 This is a page so you can check out my various social media accounts as well as my resume and other info about myself
 
-## Resume
-
-This is where my resume info will go
-
+## Education
+**Virginia Polytechnic Institute and State University (Virginia Tech)**
+B.S., Business Information Technology, Decision Support Systems, Spring 2019
+Computer Science Minor, Spring 2019
+- Cumulative GPA of 3.50
 
 Syntax highlighted code block
 
