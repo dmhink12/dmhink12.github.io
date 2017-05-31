@@ -3,7 +3,7 @@
 System.out.println("Hello World!");
 Hello World!
 ```
-This is a page so you can check out my various social media accounts as well as my resume and other info about myself.:smile:
+This is a page so you can check out my various social media accounts as well as my resume and other info about myself.
 
 ## Education
 ### **Virginia Polytechnic Institute and State University (Virginia Tech)**
